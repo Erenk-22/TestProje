@@ -1,0 +1,12 @@
+D:\Asp.Net\ProjeTest\CoreLayer\bin\Debug\net6.0\CoreLayer.deps.json
+D:\Asp.Net\ProjeTest\CoreLayer\bin\Debug\net6.0\CoreLayer.dll
+D:\Asp.Net\ProjeTest\CoreLayer\bin\Debug\net6.0\CoreLayer.pdb
+D:\Asp.Net\ProjeTest\CoreLayer\obj\Debug\net6.0\CoreLayer.csproj.AssemblyReference.cache
+D:\Asp.Net\ProjeTest\CoreLayer\obj\Debug\net6.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.Net\ProjeTest\CoreLayer\obj\Debug\net6.0\CoreLayer.AssemblyInfoInputs.cache
+D:\Asp.Net\ProjeTest\CoreLayer\obj\Debug\net6.0\CoreLayer.AssemblyInfo.cs
+D:\Asp.Net\ProjeTest\CoreLayer\obj\Debug\net6.0\CoreLayer.csproj.CoreCompileInputs.cache
+D:\Asp.Net\ProjeTest\CoreLayer\obj\Debug\net6.0\CoreLayer.dll
+D:\Asp.Net\ProjeTest\CoreLayer\obj\Debug\net6.0\refint\CoreLayer.dll
+D:\Asp.Net\ProjeTest\CoreLayer\obj\Debug\net6.0\CoreLayer.pdb
+D:\Asp.Net\ProjeTest\CoreLayer\obj\Debug\net6.0\ref\CoreLayer.dll

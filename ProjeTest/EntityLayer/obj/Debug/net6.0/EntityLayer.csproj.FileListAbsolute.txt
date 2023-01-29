@@ -1,0 +1,12 @@
+D:\Asp.Net\ProjeTest\EntityLayer\bin\Debug\net6.0\EntityLayer.deps.json
+D:\Asp.Net\ProjeTest\EntityLayer\bin\Debug\net6.0\EntityLayer.dll
+D:\Asp.Net\ProjeTest\EntityLayer\bin\Debug\net6.0\EntityLayer.pdb
+D:\Asp.Net\ProjeTest\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.AssemblyReference.cache
+D:\Asp.Net\ProjeTest\EntityLayer\obj\Debug\net6.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.Net\ProjeTest\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfoInputs.cache
+D:\Asp.Net\ProjeTest\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfo.cs
+D:\Asp.Net\ProjeTest\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.CoreCompileInputs.cache
+D:\Asp.Net\ProjeTest\EntityLayer\obj\Debug\net6.0\EntityLayer.dll
+D:\Asp.Net\ProjeTest\EntityLayer\obj\Debug\net6.0\refint\EntityLayer.dll
+D:\Asp.Net\ProjeTest\EntityLayer\obj\Debug\net6.0\EntityLayer.pdb
+D:\Asp.Net\ProjeTest\EntityLayer\obj\Debug\net6.0\ref\EntityLayer.dll

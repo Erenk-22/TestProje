@@ -1,0 +1,50 @@
+﻿@model EntityLayer.Concrete.KayitSistemi
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Profil</title>
+     <link rel="stylesheet" href="~/css/Profil.css">
+</head>
+<body>
+    <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+
+<div class="login">
+  <h2 class="active"> PROFİL </h2>
+  @using(Html.BeginForm("ProfilGuncelle","Profil",FormMethod.Post))
+  {
+    @Html.TextBoxFor(a => a.UyeAdi, new { @class = "text", Value = Model.UyeAdi })
+     <span>Adı</span>
+    <br>
+    <br>
+    @Html.TextBoxFor(a => a.UyeSoyadi, new { @class = "text", Value = Model.UyeSoyadi })
+     <span>Soyadı</span>
+    <br>
+    <br>
+    @Html.TextBoxFor(a => a.UyeMail, new { @class = "text", Value = Model.UyeMail })
+     <span>Mail</span>
+    <br>
+    <br>
+    @Html.TextBoxFor(a => a.UyeDogümTarihi, new { @class = "text", Value = Model.UyeDogümTarihi })
+     <span>Doğum Tarihi</span>
+    <br>
+    <br>
+    @Html.TextBoxFor(a => a.UyeTelefon, new { @class = "text", Value = Model.UyeTelefon })
+     <span>Telefon</span>
+    <br>
+    <br>
+    @Html.TextBoxFor(a => a.Sifre, new { @class = "text", Value = Model.Sifre })
+    <span>Şifre</span>
+    <hr>
+    @Html.HiddenFor(x=>x.UyeID)
+    <button class="signin">Kayıt Et</button>
+  }
+
+</div>
+</body>
+</html>

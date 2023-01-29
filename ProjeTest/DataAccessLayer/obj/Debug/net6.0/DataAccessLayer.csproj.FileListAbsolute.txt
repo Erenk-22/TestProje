@@ -1,0 +1,17 @@
+D:\Asp.Net\ProjeTest\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\Asp.Net\ProjeTest\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.Net\ProjeTest\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\Asp.Net\ProjeTest\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+D:\Asp.Net\ProjeTest\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Asp.Net\ProjeTest\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+D:\Asp.Net\ProjeTest\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+D:\Asp.Net\ProjeTest\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+D:\Asp.Net\ProjeTest\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+D:\Asp.Net\ProjeTest\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
+D:\Asp.Net\ProjeTest\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+D:\Asp.Net\ProjeTest\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+D:\Asp.Net\ProjeTest\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+D:\Asp.Net\ProjeTest\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+D:\Asp.Net\ProjeTest\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+D:\Asp.Net\ProjeTest\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+D:\Asp.Net\ProjeTest\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll

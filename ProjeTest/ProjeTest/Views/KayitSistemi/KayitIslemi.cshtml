@@ -1,0 +1,34 @@
+﻿@model EntityLayer.Concrete.KayitSistemi
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>KayitIslemi</title>
+	 <link rel="stylesheet" href="~/css/site.css">
+</head>
+<body>
+    <div class="body"></div>
+		<div class="grad"></div>
+		<div class="header">
+			<div>Frm<span>Random</span></div>
+		</div>
+		<br>
+		<div class="login">
+			  @using(Html.BeginForm("KayitIslemi","KayitSistemi",FormMethod.Post))
+  {
+	<p>@ViewBag.Erorr</p>  
+				<input type="text" placeholder="username" name="UyeMail"><br>
+				<input type="password" placeholder="password" name="Sifre"><br>
+				<input type="submit" class="submit" value="Giriş Yap">
+				<a href="@Url.Action("LogIn","KayitSistemi")">
+				<input type="button" value="Kayıt Ol"></a>
+				
+  }
+		</div>
+</body>
+</html>

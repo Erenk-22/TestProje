@@ -1,0 +1,36 @@
+﻿@model EntityLayer.Concrete.KayitSistemi
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>LogIn</title>
+	 <link rel="stylesheet" href="~/css/site.css">
+</head>
+<body>
+    <div class="body"></div>
+		<div class="grad"></div>
+		<div class="header">
+			<div>Frm<span>Random</span></div>
+		</div>
+		<br>
+		
+		<div class="login">
+			  @using(Html.BeginForm("LogIn","KayitSistemi",FormMethod.Post))
+  {<div><span>@ViewBag.Erorr</span></div>
+				<input type="date" style="background-color:transparent; width:250px; height:30px;  border: 1px solid rgba(255,255,255,0.6);
+border-radius: 2px;font-size: 16px;font-weight: 400;padding: 4px;" placeholder="username" name="UyeDogümTarihi"><br>
+				<input type="text" placeholder="Adınız" name="UyeAdi"><br>
+				<input type="text" placeholder="Soyadınız" name="UyeSoyadi"><br>
+				<input type="text" placeholder="Telefon" name="UyeTelefon"><br>
+				<input type="text" placeholder="Mailiniz" name="UyeMail"><br>
+				<input type="password" placeholder="password" name="Sifre"><br>
+				<input type="submit" class="submit" value="Kayıt Ol">
+				}
+		</div>
+</body>
+</html>
